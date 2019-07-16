@@ -126,3 +126,7 @@ git push
 Editamos el readmi para hacer un nuevo commit
 Editamos el readmi para hacer un nuevo commit en ejercicios
 Editamos el Readmi en la rama Charlas
+
+
+
+Dalma tumbada
