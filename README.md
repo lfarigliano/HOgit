@@ -124,3 +124,6 @@ git push
 
 #######################################
 Editamos el readmi para hacer un nuevo commit
+
+
+Editamos el readmi para hacer un nuevo commit en ejercicios
